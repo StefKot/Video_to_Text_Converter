@@ -2,7 +2,8 @@
 Python script that converts video to text using the speech_recognition library. 
 
 You can specify the name of the mp4 file that you want to convert to text:
-![image](https://github.com/StefKot/Video_to_Text_Translator/assets/96449266/dca2e4b0-be02-4fc6-8dba-d61b53f9b239)
+![image](https://github.com/StefKot/Video_to_Text_Converter/assets/96449266/8856079f-fece-4973-9322-48f3589b582f)
+
 # Operating principle
 * Converts mp4 to wav
 * Calculates the duration of recording a digitized audio stream
