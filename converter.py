@@ -11,7 +11,7 @@ import config
 NOISE = False 
 
 
-file_name = input("Enter the filename you want to convert to text (without file permissions): ")
+file_name = input("Filename you want to convert to text without file permissions (must be located in current directory in mp4 folder): ")
 
 # Creating directories for mp4, wav and txt files
 if (not os.path.exists(config.mp4_path)):
